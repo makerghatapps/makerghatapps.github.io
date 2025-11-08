@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  color: #000;
+}
+
+img {
+  border-radius: 50%;
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  color: green;
+}
